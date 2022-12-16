@@ -1,4 +1,6 @@
-<img src="https://github.com/DiscoRiver/wagyu/blob/main/assets/wagyu.png" width=500>
+<p align="center">
+<img src="https://github.com/DiscoRiver/wagyu/blob/main/assets/wagyu.png" width=400>
+</p>
 
 ## Overview
 
