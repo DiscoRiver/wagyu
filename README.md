@@ -1,4 +1,4 @@
-![Wagyu](https://github.com/DiscoRiver/wagyu/blob/main/asset/wagyu.png)
+![Wagyu](https://github.com/DiscoRiver/wagyu/blob/main/assets/wagyu.png)
 
 ## Overview
 
